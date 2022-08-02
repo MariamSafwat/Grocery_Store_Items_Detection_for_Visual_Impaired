@@ -10,17 +10,7 @@ The images of this dataset are from https://github.com/marcusklasson/GroceryStor
 It was re-arranged to fit the goals of this project, you can find the dataset after re-arrangement in Dataset/Dataset_Rearranged
 
 ## Image Classification Models
-### Base Model
-The Xception proved to be the best model with F1-score 98% on the test set
 
-### Fruits Model
-The Xception proved to be the best model with F1-score 97% on the test set
-
-### Vegetables Model
-The MobileNet proved to be the best model with F1-score 94% on the test set
-
-### Packages Model
-The VGG19 proved to be the best model with F1-score 96% on the test set
 
 ## Text to Speech Model
 
